@@ -1,0 +1,16 @@
+.background {
+    background-image: url("colorful-pencils-frame-vector-illustration-260nw-252591835.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color: orchid;
+    font-size: 40px;
+}
+
+#canvas1{
+    background-color: white;
+    border-width: 10px;
+    border-style: ridge;
+}
